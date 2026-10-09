@@ -1,0 +1,16 @@
+{
+  "video": "rust-october-2026.mp4",
+  "duration_seconds": 221.6,
+  "bytes": 49452029,
+  "sha256": "6197120d8341e6d127e14c825c5eaf36ad74591d0246fbf20d0ec5f6cbe12dd8",
+  "full_av_decode": "passed with ffmpeg -xerror",
+  "video_frames": 6645,
+  "subtitle_cues": 71,
+  "all_14_narration_segments_have_nonzero_audio": true,
+  "measured_loudness_LUFS": -16.24,
+  "measured_true_peak_dBTP": -1.15,
+  "install_script_repeatability": "passed twice",
+  "repository_changes": "none",
+  "new_task_snapshot_restoration": "not tested",
+  "audio_listening_review": "not performed; audio input unavailable to the assistant"
+}

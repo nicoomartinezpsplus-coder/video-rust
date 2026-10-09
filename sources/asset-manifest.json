@@ -1,0 +1,80 @@
+[
+  {
+    "filename": "livestock_hero.mp4",
+    "url": "https://files.facepunch.com/lewis/2026/September/livestock_blog_bg.mp4",
+    "bytes": 1258577,
+    "sha256": "d1fd8b5910e97734528f13d233848fe30a97f4f16f8ed83526b3e6a2dfbf6a17"
+  },
+  {
+    "filename": "animals.jpg",
+    "url": "https://files.facepunch.com/kaantasan/1b3011b1/oct2026_livestock_animals_cows_sheep_2_1080%20%281%29.jpg",
+    "bytes": 902511,
+    "sha256": "6eb2bd7d72f33407b8da22012e3d88c5977f0af74ba3ebd3565f42097c0fcaca"
+  },
+  {
+    "filename": "trade.jpg",
+    "url": "https://files.facepunch.com/kaantasan/1b2411b1/rust_livestock_auctions_2_1080.jpg",
+    "bytes": 410338,
+    "sha256": "a73173265a2fa60abec2605dcd1cf3e82a86be379530896fd8ada4a276e6cce8"
+  },
+  {
+    "filename": "milk.png",
+    "url": "https://files.facepunch.com/kaantasan/1b3011b1/rust_milk_1_1080_jpg.png",
+    "bytes": 2827693,
+    "sha256": "988afa99d3e6a84e889a0858e0195515ced50cb573450cf41f45de2f962ee17b"
+  },
+  {
+    "filename": "biofuel.jpg",
+    "url": "https://files.facepunch.com/kaantasan/1b2911b1/oct2026_Biofuel_Generator_deployable_2_1080.jpg",
+    "bytes": 974226,
+    "sha256": "a10e65ad9f02e402f29fde46ee2b0eecaf4dd458b14eac23e0e0e71258d6a3de"
+  },
+  {
+    "filename": "rabbit.jpg",
+    "url": "https://files.facepunch.com/kaantasan/1b3011b1/rust_rabbit_3_1080.jpg",
+    "bytes": 319922,
+    "sha256": "cecc78eb8275cbaec117f9f803831e20931886fe9eb4488e7ebbb5db7020be57"
+  },
+  {
+    "filename": "helipad.jpg",
+    "url": "https://files.facepunch.com/martynchapman/2026/September/30_13-24-UnhappyGodwit.jpg",
+    "bytes": 241219,
+    "sha256": "1918a9ac3870b0d9de5542e04d7be5b3342dd160dced352b0dce489ee85844e2"
+  },
+  {
+    "filename": "sandbags.mp4",
+    "url": "https://files.facepunch.com/kaantasan/1b3011b1/rust_sandbags_1_.mp4",
+    "bytes": 10425112,
+    "sha256": "d416029f970e16e4cfbb01e0c9279b7f84139e80340f13f6a8227b0ca19f5dc6"
+  },
+  {
+    "filename": "loot.jpg",
+    "url": "https://files.facepunch.com/kaantasan/1b3011b1/rust_lootroom_2_1080.jpg",
+    "bytes": 239379,
+    "sha256": "4ed0ac1057d7d68bafe4c9038efed28607e87ea31b2f2d1bd95a8633469a6972"
+  },
+  {
+    "filename": "fuses.jpg",
+    "url": "https://files.facepunch.com/kaantasan/1b2911b1/rust_powerfuses_2_1080_jpg.jpg",
+    "bytes": 344384,
+    "sha256": "192ca74d30cac1ecb4795803f66ffe30062b78288c02357ce2e8000aada3195b"
+  },
+  {
+    "filename": "grenades.mp4",
+    "url": "https://files.facepunch.com/kaantasan/1b3011b1/rust_grenade_throw_comparison.mp4",
+    "bytes": 8055746,
+    "sha256": "d1be9c6b73d234d20f39a09f2019f0b5fa3538157d044f804f6b6f0ff03e8186"
+  },
+  {
+    "filename": "performance.jpg",
+    "url": "https://files.facepunch.com/jarryd-campi/2026/September/rust_ak_inspect_2_1080.jpg",
+    "bytes": 277061,
+    "sha256": "3730a21bdea35c432bd62fe3b20587a39ed17c9d0e550e673cc2a96212e8b8b8"
+  },
+  {
+    "filename": "machete.jpg",
+    "url": "https://files.facepunch.com/kaantasan/1b3011b1/rust_machete_5_1080.jpg",
+    "bytes": 357228,
+    "sha256": "77c1e03ef6406b1922dda8c08f8ccd4c0c1993a38dfa1b31f6f4050ec238f133"
+  }
+]
